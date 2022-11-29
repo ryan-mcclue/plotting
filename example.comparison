@@ -1,0 +1,3 @@
+xxx 0mb 4mb 8mb 16mb
+pthread 10 10 10 10
+fork 10 20 30 40

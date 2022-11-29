@@ -1,0 +1,12 @@
+# SPDX-License-Identifier: zlib-acknowledgement
+
+*
+
+!.gitignore
+
+!reference.gp
+!metrics.gp
+!comparison.gp
+!example.metric
+!example.comparison
+!book.pdf
